@@ -1,0 +1,15 @@
+body {
+    height: 2000px;
+}
+
+h1 {
+    color: red;
+}
+
+hr {
+    background-color: #333;
+}
+
+.table td {
+    vertical-align: middle;
+}
